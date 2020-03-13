@@ -1,0 +1,99 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	text-align: center;
+	list-style: none;
+	box-sizing: border-box;
+}
+.limpa {
+	clear: both;
+	overflow: hidden;
+	display: block;
+}
+.conteudo10 {
+	max-width: 1280px;
+	width: 100%;
+	margin:0 auto;
+	padding: 0;
+}
+.conteudo-9 {
+	max-width: 1280px;
+	width: 90%;
+	margin:0 auto;
+	padding: 0;
+}
+.conteudo-8 {
+	max-width: 1280px;
+	width: 80%;
+	margin:0 auto;
+	padding: 0;
+}
+.conteudo-7 {
+	max-width: 1280px;
+	width: 70%;
+	margin:0 auto;
+	padding: 0;
+}
+.conteudo-6 {
+	max-width: 1280px;
+	width: 60%;
+	margin:0 auto;
+	padding: 0;
+}
+.topo {
+	height: 180px;
+	border-bottom: 1px solid rgba(102, 204, 255, .6)
+}
+.logo img {
+	width: 270px;
+	height: 170px;
+}
+.menu li a {
+    font-size: .9em;
+    border:1px solid rgb(51, 133, 255);
+    color: rgb(51, 133, 255);
+    padding: 5px;
+}
+.menu li a:hover {
+	background-color: #b3d9ff;
+	color: #0066cc;
+}
+.menu {
+    display: inline-block;
+    margin-top: 15px;
+}
+.vem1 {
+	color: #00a3cc;
+	font-size: 3em;	
+}
+.vem2 {
+	color: #00a3cc;
+	font-size: 3em;
+	 
+}
+.vem3 {
+	color: #00a3cc;
+	font-size: 3em;
+}
+.texto_index {
+	color: #0055ff;
+	font-size: 1.8em;
+	margin-top: 90px;
+	
+}
+.cor_do_footer {
+    position: fixed;
+    bottom: 0;
+      
+}
+footer img {
+	width: 130%;
+	height: 200px;
+}
+
+
+	
+	
+	
+
